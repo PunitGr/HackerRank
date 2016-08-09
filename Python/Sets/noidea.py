@@ -1,3 +1,4 @@
+#!/bin/python3
 n, m = map(int, input().split())
 i=[int(u) for u in input().split()]
 A={int(u) for u in input().split()}

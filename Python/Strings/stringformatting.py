@@ -1,3 +1,4 @@
+#!/bin/python3
 n=int(input())
 d=1
 x=1

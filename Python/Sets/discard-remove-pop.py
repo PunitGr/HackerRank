@@ -1,3 +1,4 @@
+#!/bin/python3
 n = int(input())
 s = set(map(int, input().split())) 
 N = int(input())

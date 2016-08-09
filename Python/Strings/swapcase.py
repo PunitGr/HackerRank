@@ -1,3 +1,4 @@
+#!/bin/python3
 # change case of string
 S = list(input())
 for i in range(len(S)):

@@ -1,3 +1,4 @@
+#!/bin/python3
 #     H
 #    HHH
 #   HHHHH

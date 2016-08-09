@@ -1,3 +1,4 @@
+#!/bin/python3
 S = input()
 n = len(S)
 stuart = 0

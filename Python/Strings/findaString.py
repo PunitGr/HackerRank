@@ -1,3 +1,4 @@
+#!/bin/python3
 # to find a substring in the input string
 s1 = input()
 s2 = input()

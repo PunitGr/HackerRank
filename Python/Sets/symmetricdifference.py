@@ -1,3 +1,4 @@
+#!/bin/python3
 M = int(input())
 S1 = list(map(int, input().split()))
 assert len(S1) == M

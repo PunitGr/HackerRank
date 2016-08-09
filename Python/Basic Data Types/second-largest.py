@@ -1,4 +1,5 @@
 # find second max number in a list
+#!/bin/python3
 def SecondMax(myList, length):
     if myList[length-1] == myList[length-2]:
         SecondMax(myList, length-1)

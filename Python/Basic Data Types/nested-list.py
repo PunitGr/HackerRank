@@ -1,5 +1,5 @@
 # find the second max scorer in the nested list
-
+#!/bin/python3
 N = int(input())
 
 myList = list()
