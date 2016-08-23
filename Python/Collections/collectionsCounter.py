@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/python3
 from collections import Counter
 x = int(input())
 sizes = Counter(map(int, input().split()))
