@@ -13,16 +13,16 @@ for i in range(T):
     while len(sideLengths) > 0:
         if len(sideLengths) == 1:
             item = sideLengths.pop()
-        else:o'
-            break
         else:
-            lastLength = item
-
-    print (answer)
             if sideLengths[0] < sideLengths[-1]:
                 item = sideLengths.pop()
             else:
                 item = sideLengths.popleft()
 
         if item > lastLength:
-            answer = 'N
+            answer = 'No'
+            break
+        else:
+            lastLength = item
+
+    print (answer)
